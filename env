@@ -1,0 +1,8 @@
+# Здесь необходимо указать TOKEN вашего Телеграмм-бота
+TOKEN='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+
+# Здесь список нескольких API_KEY для запросов в Scopus, получить их можно на сайте https://dev.elsevier.com/
+API_KEY_LST='[
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+    "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz"]'
