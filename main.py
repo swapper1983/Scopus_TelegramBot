@@ -24,7 +24,6 @@ api_key_list: json = json.loads(os.environ['API_KEY_LST'])
 date_format: str = '%d/%m/%Y, %H:%M'
 time_format: str = '%H:%M'  # '%d-%m-%Y, %H:%M'
 coff: int = 100
-# valid_key: str = apikey_validation(api_key_list)
 # ar_cmd: str = 'DOCTYPE(ar) AND '
 # re_cmd: str = 'DOCTYPE(re) AND '
 # cp_cmd: str = 'DOCTYPE(cp) AND '
