@@ -31,12 +31,12 @@ python -m venv venv
 * для Windows:
 ```source venv/Scripts/activate```
 
-4. Установите зависимости из файла requirements.txt:
+5. Установите зависимости из файла requirements.txt:
 ```
 pip install -r requirements.txt
 ```
 
-5. В директории с файлом main.py выполните команду: 
+6. В директории с файлом main.py выполните команду: 
 * для Linux:
 ```
 nohup python -u main.py >> Ru_regions_Bot.log &
